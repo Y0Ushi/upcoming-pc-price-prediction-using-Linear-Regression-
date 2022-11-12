@@ -1,7 +1,8 @@
 suppose worldwide brand Dell want to realese a new model 
 --------------------------------------------------------------------------
 here they pc configuration
- name : Dell supercyclone (leptop)
+
+name : Dell supercyclone (leptop)
  brand: dell
 item id : 32
 ram : 32 
