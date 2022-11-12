@@ -1,0 +1,31 @@
+Brand,Item ID,Ram_Gb,StoraGe_Gb,Price_Rs,processorSpeed, Touch ,Color ,Weight,DisplAy size_inch
+Apple,32,16,256,315000,2.2,No,Space grey,1.83,15.4
+Apple,8,8,512,232000,3.2,No,Dark Black,1.29,13.3
+Apple,32,16,1024,382000,2.3,No,Silver,2,16
+Apple,26,8,,195000,2.3,No,Space grey,1.37,13.3
+Apple,32,4,128,92400,1.8,No,Silver,1.35,11.6
+Apple,4,8,256,60000,2.6,No,Silver,1,13.3
+Apple,32,8,512,192000,1.2,No,Silver,0.9,12
+Apple,4,8,128,224700,1.8,No,Silver,1.23,13.3
+Apple,26,8,128,102000,1.6,No,Rose Gold,1.25,13.3
+Apple,4,16,,382000,2.6,No,Silver,2,16
+Dell,8,4,1024,78500,2.1,No,Black,1.9,15.6
+Dell,32,8,256,90000,1.6,No,Black,1.82,15.6
+Dell,8,4,1024,100000,2.4,No,Black,1.78,15.6
+Dell,8,,1024,125000,1.8,Yes,Silver,1.9,15.6
+Dell,8,8,256,122000,2.4,Yes,Silver,,14
+Dell,32,12,512,130000,2.1,Yes,Silver,1.95,15.6
+Dell,4,8,256,185000,1.8,No,Silver,1.23,13.3
+Dell,26,16,1024,340000,2.3,No,Silver,2.11,17
+Dell,8,8,256,224000,2.8,Yes,Silver,1.2,13.4
+Dell,26,16,512,299000,2.6,No,Black,2.5,15.6
+Apple,26,4,500,132000,2.5,No,Silver,,13
+Apple,8,4,128,101000,1.8,No,Silver,,11
+Apple,8,16,256,200000,2.2,No,Silver,1.83,15.4
+Apple,4,8,256,255000,2.3,No,Silver,1.37,13.3
+Apple,26,8,256,140000,1.8,No,Rose Gold,1.35,12
+Dell,4,8,1024,170000,1.6,No,Black,2.2,15.6
+Dell,4,4,250,25000,2.35,No,Black,1.63,15.6
+Dell,8,8,128,60000,2.5,No,Black,1.42,15.6
+Dell,8,6,650,33200,2.26,No,White,2.84,15.6
+Dell,26,4,128,47000,2.2,No,Black,0.78,12.5
